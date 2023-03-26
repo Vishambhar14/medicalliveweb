@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/medicalliveweb/static/css/main.a29a1c6f.css",
+    "main.js": "/medicalliveweb/static/js/main.ba1a44a3.js",
+    "static/js/787.5352c3a1.chunk.js": "/medicalliveweb/static/js/787.5352c3a1.chunk.js",
+    "index.html": "/medicalliveweb/index.html",
+    "main.a29a1c6f.css.map": "/medicalliveweb/static/css/main.a29a1c6f.css.map",
+    "main.ba1a44a3.js.map": "/medicalliveweb/static/js/main.ba1a44a3.js.map",
+    "787.5352c3a1.chunk.js.map": "/medicalliveweb/static/js/787.5352c3a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a29a1c6f.css",
+    "static/js/main.ba1a44a3.js"
+  ]
+}
